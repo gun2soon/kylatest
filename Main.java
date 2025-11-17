@@ -2,6 +2,8 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("ambot sa imo");
         System.out.println("lancebonak");
-        System.out.println("bobo");
+        System.out.println("bobo \n" );
+
+        System.out.println("version 2 ni kyla");
     }
 }
